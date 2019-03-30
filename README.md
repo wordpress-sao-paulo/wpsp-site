@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/wordpress-sao-paulo/wpsp-site/raw/master/assets/images/banner-wpsp.jpg">
+ </p>
+
 Comunidade WordPress São Paulo
 ==============================
 
