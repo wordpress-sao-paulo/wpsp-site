@@ -7,11 +7,11 @@ Comunidade WordPress São Paulo
 
 Bem-vindo ao site da comunidade de usuários de WordPress em São Paulo! Aqui você terá acesso aos links e informação necessários para participar das atividades da comunidade.
 
-🌐 O quê é o WordPress?
+🌐 O que é o WordPress?
 ---
 O WordPress é um projeto gratuito e de código aberto que você pode usar para criar sites, blogs ou aplicações web. Para entender mais sobre o projeto, recomendamos acessar o [site oficial](https://br.wordpress.org/).
 
-👥 O quê é a comunidade WordPress São Paulo?
+👥 O que é a comunidade WordPress São Paulo?
 ---
 A comunidade WordPress São Paulo é um grupo de pessoas que utilizam o WordPress e se reúnem para promover a utilização da plataforma. O principal ponto de contato entre os membros da comunidade são os *meetups*, encontros presenciais que contam com palestras, oficinas, troca de experiências e muita conversa sobre o WordPress.
 
