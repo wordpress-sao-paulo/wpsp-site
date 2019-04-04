@@ -1,0 +1,33 @@
+//
+// Theme Style
+//
+
+/// --------------------------------------------------------------
+// Import functions before variables to fix compilation issues
+// --------------------------------------------------------------
+@import "../../node_modules/bootstrap/scss/functions";
+@import "settings/variables";
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+// --------------------------------------------------------------
+// Tools, Variables and Mixins
+// --------------------------------------------------------------
+@import "settings/mixins";
+@import "settings/fonts";
+
+.banner {
+    min-height: 70vh;
+    background-size: cover;
+    background-position: center bottom;
+
+    h1, p {
+        font-family: $font-family-monospace;
+        background: #000;
+        display: inline-block;
+    }
+}
+
+img.logo {
+    width: 400px;
+}
+
