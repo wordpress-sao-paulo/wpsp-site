@@ -23,6 +23,9 @@
     <a id="skip-to-content" href="#content">Pular para o conteúdo.</a>
 
     <header class="page-header" role="banner">
+      <figure class="logo">
+        <img src="{{ page.figure.url }}" title="{{ page.figure.title }}" alt="{{ page.figure.alt }}" class="img-responsive" />
+      </figure>
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
