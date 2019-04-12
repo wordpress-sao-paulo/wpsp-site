@@ -2,6 +2,10 @@
 layout: default
 title: Comunidade WordPress São Paulo
 description: Bem-vindo ao site da comunidade de usuários de WordPress em São Paulo! Aqui você terá acesso aos links e informação necessários para participar das atividades da comunidade.
+figure:
+  url: /assets/images/logo-wpsp-vermelho.png
+  title: Comunidade WordPress Sãp Paulo
+  alt: Logo da comunidade WordPress São Paulo
 ---
 
 ## 🌐 O que é o WordPress?

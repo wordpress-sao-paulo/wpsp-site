@@ -1,0 +1,14 @@
+.page-header {
+    .logo {
+        width: 60%;
+        margin:0 auto;
+
+        @include medium {
+            width: 24%;
+        }
+
+        @include large {
+            width: 24%;
+        }
+    }
+}
