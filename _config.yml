@@ -3,3 +3,10 @@ description: Bem-vindo ao site da comunidade de usuários de WordPress em São P
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-autoprefixer
